@@ -1,0 +1,4 @@
+baseURL = 'https://ezrichards.github.io'
+languageCode = 'en-us'
+title = 'Ethan Richards'
+theme = 'ethanTheme'

@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+
+<body>
+    {{- partial "navbar.html" . -}}
+    <div id="content">
+        {{- block "main" . }}{{- end }}
+
+        <div class="section">
+            <h2 style="color: cornflowerblue;">Education</h2>
+
+            <div class="row">
+                <div class="col">
+                    <p><b>Colorado School of Mines</b></p>
+                    <p>B.S. Computer Science</p>
+                    <p><i>August 2021 - May 2025</i></p>
+                    <br>
+                    <p>M.S. Computer Science</p>
+                    <p><i>August 2024 - December 2025</i></p>
+                    <br>
+                    <p>Mines ACM President - <a href="https://acm.mines.edu/">acm.mines.edu</a></p>
+                    <p>Mines HSPC Chair - <a href="https://mineshspc.com/">mineshspc.com</a></p>
+                    <p>2x C-MAPP Scholar - <a href="https://mapp.mines.edu/">mapp.mines.edu</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2 style="color: orchid;">Work Experience</h2>
+
+            <div class="row">
+                <div class="col">
+                    <p><b>Software Engineer Intern</b></p>
+                    <p><i>Tyler Technologies, May 2024 - August 2024</i></p>
+                    <p>Developed automated invoice capture systems using C# & Angular with microservices and MLOps with
+                        AWS that affect millions of dollars in transactions and optimize company time.</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <p><b>CSCI128 Lead Teaching Assistant</b></p>
+                    <p><i>Colorado School of Mines, August 2023 - Present</i></p>
+                    <p>Guided students in CSCI128 to solidify their Python fundamentals and provided operational and
+                        clerical support as a lead TA.</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col">
+                    <p><b>Full Stack Web Developer Intern</b></p>
+                    <p><i>Plan Analyst, June 2019 - August 2021</i></p>
+                    <p>Converted a legacy architectural “Sign Calculator” application to a modern website using Python
+                        with Django on the backend.</p>
+                </div>
+            </div>
+
+            <div class="accordion accordion-flush">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-other">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseOther" aria-expanded="false" aria-controls="flush-other">
+                            <span>Other Work Experience</span>
+                        </button>
+                    </h2>
+                    <div id="flush-collapseOther" class="accordion-collapse collapse" aria-labelledby="flush-other">
+                        <div class="accordion-body">
+                            <div class="row">
+                                <div class="col">
+                                    <p><b>Undergraduate Research Assistant</b></p>
+                                    <p><i>Colorado School of Mines, May 2023 - December 2023</i></p>
+                                    <p>Researched notional machines in Computer Science education with Python and graph
+                                        theory under Dr. Gabriel Fierro.</p>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col">
+                                    <p><b>CSCI128 Course Designer</b></p>
+                                    <p><i>Colorado School of Mines, January 2023 - August 2023</i></p>
+                                    <p>Co-led the process of restructuring Mines' curriculum for introductory Computer
+                                        Science courses CSCI101 and CSCI102.</p>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col">
+                                    <p><b>CSCI200 Teaching Assistant</b></p>
+                                    <p><i>Colorado School of Mines, August 2022 - December 2022</i></p>
+                                    <p>Helped students in CSCI200 <i>Foundational Programming Concepts & Design</i> with
+                                        C++
+                                        programming concepts such as pointers, inheritance, and OOP.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2 style="color: green;">Skills</h2>
+
+            <div class="row">
+                <div class="col">
+                    <p><b>Frontend</b>: JavaScript, TypeScript, HTML, CSS, React Native, React, Vue, Angular, Bootstrap
+                    </p>
+                    <p><b>Backend</b>: Java, Python, C, C#, C++, Node.js, Django, Flask, SQL, MongoDB, Docker</p>
+                    <p><b>Project Management</b>: Agile, Scrum, Test Driven Development</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2 style="color: palevioletred;">Projects</h2>
+
+            <div class="accordion accordion-flush">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingSeven">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseSeven" aria-expanded="false" aria-controls="flush-collapseSeven">
+                            <span>GeoCup</span>
+                            <span style="float: right;">April 2024</span>
+                        </button>
+                    </h2>
+                    <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven">
+                        <div class="accordion-body">
+                            <p>
+                                Made a serverless webapp with <b>React</b> hosting a GeoGuessr Cup for friends.
+                            </p>
+                            <p>Repository: <a
+                                    href="https://github.com/ezrichards/GeoCup">github.com/ezrichards/GeoCup</a></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingSix">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseSix" aria-expanded="false" aria-controls="flush-collapseSix">
+                            <span>OreCart App</span>
+                            <span style="float: right;">August 2023 - July 2024</span>
+                        </button>
+                    </h2>
+                    <div id="flush-collapseSix" class="accordion-collapse collapse" aria-labelledby="flush-headingSix">
+                        <div class="accordion-body">
+                            <p>
+                                Co-led a team of peers in an Agile setting to develop a transportation app for Mines and
+                                the City of Golden's OreCart shuttle service.
+                                We used <b>FastAPI (Python) & PostgreSQL</b> on the backend and <b>React Native</b> on
+                                the frontend with Docker for deployment.
+                            </p>
+                            <p>Repository: <a
+                                    href="https://github.com/OreCart/OreCart-App">github.com/OreCart/OreCart-App</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingFive">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseFive" aria-expanded="false"
+                            aria-controls="flush-collapseFive">
+                            <span>Swim Tech Web</span>
+                            <span style="float: right;">August 2023 - December 2023</span>
+                        </button>
+                    </h2>
+                    <div id="flush-collapseFive" class="accordion-collapse collapse"
+                        aria-labelledby="flush-headingFive">
+                        <div class="accordion-body">
+                            <p>
+                                Led my field session team to develop a processing backend and web frontend for our
+                                client's swim stroke visualization software.
+                                We used <b>Vue.js</b> on the frontend and <b>Django + PostgreSQL</b> on the backend.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingFour">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseFour" aria-expanded="false"
+                            aria-controls="flush-collapseFour">
+                            <span>Mines ACM Website</span>
+                            <span style="float: right;">June 2023 - August 2023</span>
+                        </button>
+                    </h2>
+                    <div id="flush-collapseFour" class="accordion-collapse collapse"
+                        aria-labelledby="flush-headingFour">
+                        <div class="accordion-body">
+                            <p>With help from club members, I led a full stack redesign of our club website, using
+                                <b>Node.js, ExpressJS, and PostgreSQL</b>
+                                on the backend, and <b>Bootstrap, HTML, and CSS</b> on the frontend.</p>
+                            <p>Link: <a href="https://acm.mines.edu">acm.mines.edu</a></p>
+                            <p>Repository: <a
+                                    href="https://github.com/ColoradoSchoolOfMines/acm-site">github.com/ColoradoSchoolOfMines/acm-site</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingOne">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                            <span>Mines HSPC Website</span>
+                            <span style="float: right;">May 2022 - August 2022</span>
+                        </button>
+                    </h2>
+                    <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne">
+                        <div class="accordion-body">
+                            <p>On top of helping run the Mines HSPC competition, I developed and maintained the frontend
+                                of
+                                the Mines HSPC site using <b>Bootstrap, HTML, and CSS</b>.</p>
+                            <p>Link: <a href="https://mineshspc.com/">mineshspc.com</a></p>
+                            <p>Repository: <a
+                                    href="https://github.com/ColoradoSchoolOfMines/mineshspc.com">github.com/ColoradoSchoolOfMines/mineshspc.com</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingTwo">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                            <span>Brickly</span>
+                            <span style="float: right;">November 2021 - May 2022</span>
+                        </button>
+                    </h2>
+                    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo">
+                        <div class="accordion-body">
+                            <p>Worked with <a href="https://gtf.fyi/">Dr. Gabriel Fierro</a> to develop a block-based
+                                web
+                                editor in <b>Python</b> using <b>Flask</b> and <a
+                                    href="https://developers.google.com/blockly/guides/configure/advanced/using_blockly_apis">Google's
+                                    Blockly API</a>. Brickly allows for easier creation of SPARQL queries against <a
+                                    href="https://brickschema.org/">BrickSchema</a> defined buildings.</p>
+                            <p>Repository: <a
+                                    href="https://github.com/ezrichards/brickly">github.com/ezrichards/brickly</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingThree">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseThree" aria-expanded="false"
+                            aria-controls="flush-collapseThree">
+                            <span>Jeopardy</span>
+                            <span style="float: right;">August 2019 - August 2022</span>
+                        </button>
+                    </h2>
+                    <div id="flush-collapseThree" class="accordion-collapse collapse"
+                        aria-labelledby="flush-headingThree">
+                        <div class="accordion-body">
+                            <p>A clone of the popular American television quiz game show, <a
+                                    href="https://en.wikipedia.org/wiki/Jeopardy!">Jeopardy</a>.
+                                This app consists of a webserver made in <b>Python</b> with <b>Django</b>, a WIP Buzzer
+                                app
+                                made in <b>React Native</b>, and a backend server to connect the apps made in
+                                <b>Node.js</b>.
+                            </p>
+                            <p>Repository: <a
+                                    href="https://github.com/ezrichards/jeopardy">github.com/ezrichards/jeopardy</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2 style="color: slateblue;">Presentations</h2>
+
+            <div class="accordion accordion-flush">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingWebDev">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseWebDev" aria-expanded="false"
+                            aria-controls="flush-collapseWebDev">
+                            <span>Web Development Workshop</span>
+                            <span style="float: right;">April 2023</span>
+                        </button>
+                    </h2>
+                    <div id="flush-collapseWebDev" class="accordion-collapse collapse"
+                        aria-labelledby="flush-headingWebDev">
+                        <div class="accordion-body">
+                            <p>I hosted an Intro to Web Development Workshop where I introduced HTML, CSS, and
+                                JavaScript, as well as good web development practices, such as UI/UX, responsiveness,
+                                and accessibility.</p>
+                            <p><b>Slides</b>: <a
+                                    href="https://docs.google.com/presentation/d/1FsvXjUB9ZHZOQUfimKK6Np0JIqL4sa8mB6TO0L-Ng8E/edit#slide=id.g1e63df6e90d_0_0">Google
+                                    Slides</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingMinecraft">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseMinecraft" aria-expanded="false"
+                            aria-controls="flush-collapseMinecraft">
+                            <span>Minecraft Modding Workshop</span>
+                            <span style="float: right;">October 2022, September 2023</span>
+                        </button>
+                    </h2>
+                    <div id="flush-collapseMinecraft" class="accordion-collapse collapse"
+                        aria-labelledby="flush-headingMinecraft">
+                        <div class="accordion-body">
+                            <p>I hosted a Minecraft Modding Workshop where I introduced Minecraft modding (adding items
+                                and blocks to the game) with <a href="https://forums.minecraftforge.net">Minecraft
+                                    Forge</a> and Java.</p>
+                            <p><b>Slides</b>: <a
+                                    href="https://docs.google.com/presentation/d/1Aol0bEtFlr7CPcxxENcKGn4I7y1NWALW-2FHygiLru8/edit#slide=id.g160b198492d_2_0">Google
+                                    Slides</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingJava">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#flush-collapseJava" aria-expanded="false"
+                            aria-controls="flush-collapseJava">
+                            <span>Java to C++ Help Session</span>
+                            <span style="float: right;">September 2022</span>
+                        </button>
+                    </h2>
+                    <div id="flush-collapseJava" class="accordion-collapse collapse"
+                        aria-labelledby="flush-headingJava">
+                        <div class="accordion-body">
+                            <p>I hosted a Java to C++ Help Session for incoming freshmen entering classes where C++ is
+                                expected.</p>
+                            <p><b>Slides</b>: <a
+                                    href="https://docs.google.com/presentation/d/1cILcTBz4BI4RCCJpynra2gmKHJz9h9sHiiyE0aESckw/edit#slide=id.p">Google
+                                    Slides</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2 style="color: darkturquoise">Publications</h2>
+            <p>Ethan Richards, Sonia Spindt, and Gabriel Fierro. 2024. Using Concept Maps for Notional Machine Selection
+                in CS1. In Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE
+                2024). Association for Computing Machinery, New York, NY, USA, 1794-1795.
+                https://doi.org/10.1145/3626253.3635535</p>
+        </div>
+
+        <div class="section">
+            <h2 style="color: goldenrod;">Making a Difference</h2>
+            <div class="row">
+                <div class="col">
+                    <p>I am especially driven by meaningful projects, such as those that include climate change, energy,
+                        education, and diversity. Feel free to email me with any opportunities or projects in these
+                        fields.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {{- partial "footer.html" . -}}
+    {{- partial "script.html" . -}}
+</body>
+
+</html>
