@@ -53,6 +53,11 @@ body {
     color: #373F51;
 }
 
+.footer-icon-middle {
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
 #copyright {
     font-size: 18px;
     color: gray;
