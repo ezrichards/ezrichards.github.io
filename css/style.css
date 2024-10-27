@@ -29,6 +29,12 @@ body {
     width: 16%;
 }
 
+@media (max-width: 768px) {
+    .nav-link {
+        width: 100%;
+    }
+}
+
 .nav-link-first {
     color: #58A4B0;
 }
