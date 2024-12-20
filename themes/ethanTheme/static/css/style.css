@@ -29,6 +29,20 @@ body {
     width: 16%;
 }
 
+.postList {
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
+}
+
+.post {
+    border-radius: 25px;
+    border: 1px solid slategray;
+    padding: 25px;
+}
+
 @media (max-width: 768px) {
     .nav-link {
         width: 100%;
