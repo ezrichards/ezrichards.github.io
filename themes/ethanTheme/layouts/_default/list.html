@@ -5,10 +5,8 @@
     <div class="postList">
         {{ range .Pages.ByPublishDate.Reverse }}
         <div class="post">
-            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            {{ partial "metadata.html" . }}
-            <p>{{ .Description }}</p>
-            <a href="{{ .RelPermalink }}">Read more</a>
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a> &#8226  {{ partial "metadata.html" . }}</h3>
+            <p>{{ .Description }} <a href="{{ .RelPermalink }}">Read more</a></p>
         </div>
         {{ end }}
     </div>

@@ -2,10 +2,10 @@
 title = 'On Stressculture'
 date = 2024-08-24T20:32:06-06:00
 draft = true
-description = 'Where I talk about things'
+description = 'In which I talk about our culture which promotes work and success at the cost of our health and how to set healthy boundaries.'
 +++
 
-# Saying no
+## Saying no
 
 The best advice I ever got from my research advisor (or honestly anyone)
 was not how to code Python better, communicate with people,
