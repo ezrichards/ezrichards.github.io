@@ -50,6 +50,10 @@ body {
     width: 50%;
 }
 
+h1 {
+    padding-bottom: 5px;
+}
+
 @media (max-width: 768px) {
     .nav-link {
         width: 100%;
