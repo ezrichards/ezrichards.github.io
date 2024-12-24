@@ -2,3 +2,11 @@ baseURL = 'https://ezrichards.github.io'
 languageCode = 'en-us'
 title = 'Ethan Richards'
 theme = 'ethanTheme'
+
+[params]
+    author = "Ethan Richards"
+    email = 'ethanrichards22@gmail.com'
+
+[outputs]
+  home = ['html', 'rss']
+  
