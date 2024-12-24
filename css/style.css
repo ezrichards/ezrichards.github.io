@@ -79,6 +79,12 @@ h1 {
     margin-bottom: 2%;
 }
 
+.footer-icons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
 .footer-icon {
     font-size: 24px;
     color: #373F51;
