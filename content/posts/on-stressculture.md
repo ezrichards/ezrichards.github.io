@@ -1,7 +1,7 @@
 +++
 title = 'On Stressculture'
 date = 2024-12-29T18:55:50Z
-draft = true
+draft = false
 description = 'In which I talk about our culture which promotes work and success at the cost of our health and how to set healthy boundaries.'
 +++
 
