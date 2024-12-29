@@ -1,8 +1,9 @@
 {{ define "main" }}
-<div class="postContent">
+<div class="postHeader">
     <h1>{{ .Title }}</h1>
     <p class="metadata">{{ partial "metadata.html" . }}</p>
-    <br>
+</div>
+<div class="postContent">
     {{ .Content }}
 </div>
 {{ end }}
