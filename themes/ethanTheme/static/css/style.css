@@ -61,12 +61,22 @@ body {
     width: 50%;
 }
 
+@media (max-width: 768px) {
+    .postHeader {
+        width: 75%;
+    }
+
+    .postContent {
+        width: 75%;
+    }
+}
+
 .postContent h2 {
     margin-top: 3.33%;
 }
 
 .postContent p {
-    margin-top: 2.5%;
+    margin-bottom: 1em;
 }
 
 h1 {
