@@ -49,7 +49,7 @@ Today, it seems like everyone has a side-hustle or things they're doing to
 advance their lives and their wealth aside from their job. Our culture towards it 
 jokingly (at least, I hope) romanticizes it as "grindsets," mindsets which include
 no let-up in your life and encourage work, work, and more work. More commonly,
-this might called [hustle culture](https://www.forbes.com/councils/forbesbusinesscouncil/2023/02/16/the-pros-and-cons-of-hustle-culture-how-to-work-hard-without-burning-out/).
+this might be called [hustle culture](https://www.forbes.com/councils/forbesbusinesscouncil/2023/02/16/the-pros-and-cons-of-hustle-culture-how-to-work-hard-without-burning-out/).
 
 It's a _**stressculture**_. A culture where performance outweighs the good of
 your own health and emphasizes greatness at the cost of immense stress.
@@ -111,7 +111,7 @@ Here's what I learned from my whole ordeal and things that both do and don't hel
 managing big workloads:
 
 **Set boundaries** (or with our analogy, build walls).
-As an adult, I've noticed that older people (at least than the college age) are great at this, and 
+As an adult, I've noticed that older people (at least older than the college age) are great at this, and 
 this goes unspoken for quite some time. Whenever you're staring down your next semester or work
 project or new big idea, ask yourself what you're willing to sacrifice, what things you could
 leave behind, and how you're going to change from doing everything all of the time.
