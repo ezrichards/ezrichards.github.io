@@ -92,7 +92,7 @@ It's hard to do less, especially in the middle of a school term, but there is re
 always a safe way out: whether it's resigning from a project, withdrawing from a class,
 or simply taking a break. **You have control in your life**.
 
-I remember the point at which I wanted it to quit was when I was speaking to my roommate.
+I remember the point at which I wanted it to stop was when I was speaking to my roommate.
 He would ask about my work, and I would try to explain, only to have
 long, awkward, 15-second pauses where I would look around and try to find my words because
 my head was so jam-packed with things. My memory got worse, and I developed a stutter because 
@@ -122,7 +122,7 @@ want to say yes to something, sleep on it. Ideally give it a week to decide. See
 to say yes after waiting awhile.
 
 After awhile, people will begin to respect your boundaries. If you're someone who says yes to
-everything, unfortunately people may take advantage of that and give you more. But if you're someone
+everything, unfortunately people may take advantage of that and offer you more things to do. But if you're someone
 who is willing to say no to the right things, people will usually only come to you with the things that
 matter.
 
