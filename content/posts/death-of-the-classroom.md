@@ -1,7 +1,7 @@
 +++
 title = 'The Death of the Classroom'
 date = 2025-06-16T18:47:11-06:00
-draft = true
+draft = false
 description = 'In which I talk about the modern classroom, why the old classroom is dead, and what solutions might look like.'
 +++
 
@@ -55,8 +55,6 @@ Learning is a fun experience: ultimately, the teachers are there to share knowle
 students, while students are there to learn about something they want to do for the rest of their
 lives.
 
-So, how can we fix this?
-
 ## What are the solutions?
 
 ..I think we're still finding this out in the educational community, but I would offer
@@ -109,11 +107,13 @@ The traditional classroom might be dead for now, but I think a lot of its ideals
 seeing a renaissance. Both students and teachers have an important role to play.
 
 Students can get off their devices and engage with the real world and take notes
-the old fashioned way. Seriously, try it!
+the old fashioned way. Be attentive - don't have headphones in and don't be
+talking to people. Seriously, try it!
 
 Teachers can *listen* to students and support the way they want to learn, even
 if the class is set in stone as a flipped model. Teachers can also set boundaries
 for using devices and AI, which can really help.
 
 The modern classroom is a classroom where everyone should be able to succeed;
-we just need a bit more direction as a whole.
+we just need a bit more direction as a whole. When there's structure and enjoyment
+for both parties, learning will become fun and valuable again.

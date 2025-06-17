@@ -29,6 +29,12 @@ body {
     width: 16%;
 }
 
+.metadata {
+    padding-bottom: 2.5%;
+    margin-bottom: 2.5%;
+    border-bottom: 1px solid slategray;
+}
+
 .postList {
     margin-top: 2.5%;
     margin-bottom: 2.5%;
