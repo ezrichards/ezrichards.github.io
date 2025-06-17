@@ -101,7 +101,7 @@ is a neverending abundance of distractions on devices, a normalized use of ChatG
 models that students dislike, it's no wonder that school is becoming more of a *game* than anything
 for students. Students want to get the grade (preferably an A for their GPA) and get out.
 
-### In Conclusion
+## In Conclusion
 
 The traditional classroom might be dead for now, but I think a lot of its ideals are
 seeing a renaissance. Both students and teachers have an important role to play.
