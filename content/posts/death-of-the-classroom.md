@@ -57,7 +57,7 @@ lives.
 
 ## What are the solutions?
 
-..I think we're still finding this out in the educational community, but I would offer
+I think we're still finding this out in the educational community, but I would offer
 a few ideas:
 
 **1. When possible, get the laptops and devices to go away.** I can recognize that some students need to take notes or
@@ -75,7 +75,7 @@ If you're a student, you should get to know people! Don't just open your phone i
 students can show their knowledge and (probably) don't have access to generative AI.
 
 **3. Disallow, or selectively allow generative AI use**. Especially in classes where written responses
-are used, disallow genAI use. As a grader, it's actually quite obvious to see when someone is
+are used, disallow GenAI use. As a grader, it's actually quite obvious to see when someone is
 giving way too much detail on something they know little about.
 
 Further, in coding classes, it's also shockingly obvious at an introductory level. I asked many
@@ -87,6 +87,8 @@ trying more in the intro track.
 **4. Teachers: stick up for yourselves and set boundaries**. Over the course of four years of an undergrad degree,
 I had just *one* teacher who walked in the first day, and said: "Put all of your devices away *now*. You don't
 need them. Pay attention and listen instead." And, to my and others' surprise - that worked.
+
+Don't be afraid to set those boundaries, even if it makes you appear a little more strict.
 
 **5. Tweak the flipped model.** The 'flipped classroom' model gained traction around COVID, but
 now, I know myself and even other students are beginning to strongly dislike this model.
