@@ -6,19 +6,19 @@ description = "My predictions on the next many years of software development aft
 +++
 
 I thought it would be fun to make some predictions about the future of development in 2025, 
-and look back in a few years' time; especially with all of the AI things going on. 
+and look back in a few years' time, especially with all of the AI things going on. 
 This is probably naive and wrong!
 
 ## It's okay, for now
 
 At the companies I've interned for, they usually don't care much about AI at all,
 or disallow the use of it. Companies implement rules that disallow AI use for proprietary
-reasons. I've heard of other companies which don't have as much of an issue with AI,
+reasons. I've heard of other companies that don't have as much of an issue with AI,
 and it seems like in academia, just about everyone uses it to some capacity.
 
 Overall, it seems like the generative AI hype has plateaued in recent years. It
 is useful, but it isn't as useful as we thought it would be, and it is not 
-good enough to replace human thought and decisionmaking yet. So, my argument,
+good enough to replace human thought and decision-making yet. So, my argument
 is that it's OK for now. Jobs are still available, and we haven't been completely
 replaced in terms of code yet.
 
@@ -75,13 +75,13 @@ clients and people directly.
 
 The stereotype or the mindset of computer scientists being shy, or not sociable nerds will (or should)
 probably go away. There will always be a demand for engineers, and perhaps a growing one, for
-those engineers who can lead people and interact with them on top of their normal responsibility.
+those engineers who can lead people and interact with them on top of their normal responsibilities.
 
 People are the one commodity that will *never* go away.
 
 ## Business value
 
-At the end of the day, companies will be looking for people that add value.
+At the end of the day, companies will be looking for people who add value.
 Whether they add value in terms of their personality, their ability to write code,
 talk to people, and so forth; people make the world go 'round.
 
@@ -93,3 +93,4 @@ but I think it is for the best.
 
 Generative AI may be frightening for our jobs and the coding side, but the
 design and people sides of computer science aren't going away any time soon.
+We must add additional value aside from just what an LLM can produce; that’s the future!
