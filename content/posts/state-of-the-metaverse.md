@@ -181,7 +181,7 @@ done with the legality of it all, revenue sources, user privacy, big data, and m
 * [AI's Energy Demands Are Out of Control. Welcome to the Internet's Hyper-Consumption Era](https://www.wired.com/story/ai-energy-demands-water-impact-internet-hyper-consumption-era/) (WIRED)
 * [The Social Dilemma](https://thesocialdilemma.com)
 * [These are the most confusing questions Congress asked Zuckerberg](https://www.youtube.com/watch?v=stXgn2iZAAY) (CNN Business, YouTube)
-* [The 13 Strangest Moments From the Zuckerberg Hearing](https://www.theatlantic.com/technology/archive/2018/04 the-strangest-moments-from-the-zuckerberg-testimony/557672/) (The Atlantic)
+* [The 13 Strangest Moments From the Zuckerberg Hearing](https://www.theatlantic.com/technology/archive/2018/04/the-strangest-moments-from-the-zuckerberg-testimony/557672/) (The Atlantic)
 * [Zuckerberg explains the internet to Congress](https://www.youtube.com/watch?v=ncbb5B85sd0) (CNET, YouTube)
 * [Congressman Richard Hudson asks TikTok CEO Shou Chew if app uses 'home WiFi'](https://www.youtube.com/watch?v=-8biKgSmS3U) (The Independent, YouTube)
 * [Supreme Court case on age limits for porn sites could affect 19 states](https://www.axios.com/2025/01/16/adult-website-age-verification-states) (Axios)
