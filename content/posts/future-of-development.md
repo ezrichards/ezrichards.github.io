@@ -2,7 +2,7 @@
 title = 'The Future of Development'
 date = 2025-07-22T17:19:54-06:00
 draft = false
-description = "My predictions on the next many years of software development after the AI boom."
+description = 'My predictions on the next many years of software development after the AI boom.'
 +++
 
 I thought it would be fun to make some predictions about the future of development in 2025, 
@@ -93,4 +93,4 @@ but I think it is for the best.
 
 Generative AI may be frightening for our jobs and the coding side, but the
 design and people sides of computer science aren't going away any time soon.
-We must add additional value aside from just what an LLM can produce; that’s the future!
+We must add additional value aside from just what an LLM can produce; that's the future!

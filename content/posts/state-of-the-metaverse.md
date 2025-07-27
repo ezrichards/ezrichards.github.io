@@ -1,7 +1,7 @@
 +++
 title = 'The State of the Metaverse'
-date = 2025-07-10T19:50:10-06:00
-draft = true
+date = 2025-07-27T10:10:10-06:00
+draft = false
 description = 'In which I talk about the state of the Internet, the Metaverse, and predictions for the future.'
 +++
 
@@ -29,14 +29,23 @@ You often hear the phrases *virtual worlds*, *virtual spaces*, *digital universe
 When you enter a flow state, or focus, while playing a game or working on the Internet, it feels like you're in a different world. 
 Your entire attention span is absorbed, for good or for bad. Your attention enters an entirely different state than that of the physical one.
 
-<!-- TODO -->
+Virtual worlds aim to provide people with experiences that they literally can't or otherwise wouldn't have. Like Zuckerberg's
+Meta says, it's a place to connect, learn, and play. (Though we're still seeing what it looks like to shop and work in the Metaverse.)
+
+The Metaverse is becoming a place for virtual worlds - with aforementioned AR/VR games like VRChat, or good "old fashioned"
+large games like Minecraft and Roblox.
 
 ## The Metaverse Today
 
-Many valid questions seem to be being asked about the Metaverse. Does it really exist? Is it just a word to describe
+Many [valid questions](https://en.as.com/latest_news/ai-is-on-the-rise-but-what-happened-to-mark-zuckerbergs-metaverse-vr-is-far-from-becoming-a-reality-n/) seem to be being asked about the Metaverse. Does it really exist? Is it just a word to describe
 new technological innovations regarding the Internet? Is it just a hyped up thing that can't really be quantified?
 
-<!-- TODO -->
+The Metaverse today seems like an idea with a few new technologies, such as AR/VR. This idea seems
+to dream of a world where everyone has access to the Internet, and our experiences become more
+digital or more intertwined with the digital world.
+
+Whether or not it's just hype, it seems like the ideas of the Metaverse are here to stay. Meta's
+idea of streamlining the "connect, learn, shop, work, play" model appears to be a realistic focus.
 
 ## Predictions for the Future
 
@@ -79,33 +88,86 @@ The Internet will **become both more safe and more dangerous**. The value of use
 becoming realized, and legislation is following, with the landmark introduction of [GDPR in Europe](https://gdpr-info.eu)
 and later introduction in the [United States](https://oag.ca.gov/privacy/ccpa).
 
-<!-- Ongoing battles for net neutrality -->
-<!-- Ongoing battles for pornography rights/age limiting -->
+Lawmakers will begin to better understand the internet, following questions over what they really
+understand in the Zuckerberg ([1](https://www.youtube.com/watch?v=stXgn2iZAAY), [2](https://www.theatlantic.com/technology/archive/2018/04/the-strangest-moments-from-the-zuckerberg-testimony/557672/), [3](https://www.youtube.com/watch?v=ncbb5B85sd0)) and [Chew trials](https://www.youtube.com/watch?v=-8biKgSmS3U).
+
+However, the internet remains a dangerous place, especially for youth, as battles remain over pornography websites, with [some states adopting age-verification laws](https://www.axios.com/2025/01/16/adult-website-age-verification-states). Additional legislation is
+being [enacted in the UK](https://www.wired.com/story/the-age-checked-internet-has-arrived/).
+
+Social media could be one of the most dangerous places of all for youth on the internet. Countries are beginning to
+[impose legislation on this too](https://tech.co/news/countries-age-restrictions-social-media) as well as [age verification
+laws](https://en.wikipedia.org/wiki/Social_media_age_verification_laws_in_the_United_States#/media/File:Social_media_age_verification_laws_as_of_may_3,_2025.png). [The Social Dilemma](https://thesocialdilemma.com) portrays
+a lot of these issues, and [Frances Haugen whistleblowing testimony](https://www.theguardian.com/technology/2021/oct/24/frances-haugen-i-never-wanted-to-be-a-whistleblower-but-lives-were-in-danger) urges action on social media companies
+that are mistreating children and their data.
+
+In the United States, [COPPA](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) protects some data for children under 13 years of age.
+
+Additionally, [net neutrality](https://en.wikipedia.org/wiki/Net_neutrality) appears to be an ongoing legal battle
+for the internet, with most recent legislation on both sides [in 2017 and 2018](https://www.mozillafoundation.org/en/campaigns/net-neutrality-timeline/).
 
 ### New Revenue Sources
 
+*Disclaimer: This is not financial advice and I do not have significant financial experience.*
 
-## What makes something 'of the metaverse'?
+New revenue sources, or a return of the same, will also define the future of the Internet and Metaverse.
 
-<!--
-- Predictions for the: new browsers & models of the internet/both safer and more dangerous- more legality (net neutrality, nsfw) as lawmakers begin to understand / new generation (tiktok and Zuckerberg clips) (redundancies with HTTPS, web browsers, OS phone and desktop and website like React Native Flutter Electron)
-- New money making strategies (Fortnite, ads) or return to old ones (subscription instead of ads) (or they never went away)
-    - Use-based is good, but people and businesses won’t be on board
-    - Disclaimer: this is not financial advice and I have no financial experience 
-- Internet freedom & capitalism/democracy are conflicting ideas/or are in conflict 
-- What makes something “of the metaverse”?
-    - Escapism? That nostalgia that gives you (A longing for a time that you never had) Under that definition, social media is tough-does it help you escape or does it bridge the two? Or does it depend?
-    - Words haven’t come yet for the metaverse
-    - Escapism for people who need it
-- Space vs. space/universe; we’re talking about a vast digital landscape
-- Long have we used terms like the “virtual world”, and it’s fair -->
+Despite the jokes about it, the rise of the [battle pass](https://en.wikipedia.org/wiki/Battle_pass) following success in Fortnite, shows that a new innovation in "free" games can define new eras of revenue on the internet.
 
+The plethora of subscriptions, especially in streaming services, seem a surefire
+revenue source for companies. I would imagine that subscriptions can help recurring revenue (rather than one-time revenue)
+and help companies predict their revenue in the longer term.
 
+Use-based services are a revenue source I would like to see more of. Rather than paying subscriptions for months
+or years, you could pay per use of service, and cancel when you wish rather than jumping through hoops to
+cancel your service.
+
+**Internet freedom and capitalism are ideas often in conflict.** The "free internet" is an idea of a place
+where everyone has access to learning, webpages, and more. Free games like Roblox with in-app or in-game
+purchases seem to fit this model, as long as you have access to the base game or the base webpage.
+
+The one revenue source I haven't mentioned is ads, which are arguably the biggest revenue source
+because they require no action from anybody and rely on data being sold. This fits the *free internet*
+model, but as mentioned with legality and user privacy, has issues. This may become a tougher market over time.
+
+## What makes the Metaverse?
+
+Words haven't come yet for the Metaverse, or at least coherent definitions.
+
+I think the Metaverse hasn't really materialized yet, but it will. I think 
+something *of the Metaverse* is something that advances technology in ways
+we haven't seen so far - like advanced VR technology or AR glasses.
+
+**The metaverse looks like escapism.** You can escape into our so-called *virtual worlds*,
+meeting people from around the world with similar interests. You can learn and play
+and get lost in a world entirely different from your own. Some people need escapism 
+from whatever they're going through in life.
+
+I'm cautiously optimistic about the future of the Metaverse; I don't think we need
+to put too much stock into every technology that comes along, like crypto and blockchain,
+but we can embrace the ideas of advancing Internet technology.
+
+However, to get to the internet of the future, much work needs to be done with the
+legality of it, revenue sources, user privacy, big data, and more.
 
 ### Related readings & sources:
-[https://time.com/6116826/what-is-the-metaverse/](https://time.com/6116826/what-is-the-metaverse/)
-https://www.meta.com/metaverse/what-is-the-metaverse/?utm_source=about.facebook.com&utm_medium=redirect
-https://www.coursera.org/articles/facebook-metaverse
-https://www.theguardian.com/technology/2021/oct/28/facebook-mark-zuckerberg-meta-metaverse
-https://www.wired.com/story/ai-energy-demands-water-impact-internet-hyper-consumption-era/
-https://thesocialdilemma.com
+* [The Metaverse Has Already Arrived. Here’s What That Actually Means](https://time.com/6116826/what-is-the-metaverse/) (TIME)
+* [What is the metaverse?](https://www.meta.com/metaverse/what-is-the-metaverse/?utm_source=about.facebook.com&utm_medium=redirect) (Meta)
+* [What Is Facebook Metaverse?](https://www.coursera.org/articles/facebook-metaverse) (Coursera)
+* [AI is on the rise, but what happened to Mark Zuckerberg’s metaverse? VR is far from becoming a reality](https://en.as.com/latest_news/ai-is-on-the-rise-but-what-happened-to-mark-zuckerbergs-metaverse-vr-is-far-from-becoming-a-reality-n/) (as)
+* [Enter the metaverse: the digital future Mark Zuckerberg is steering us toward](https://www.theguardian.com/technology/2021/oct/28/facebook-mark-zuckerberg-meta-metaverse) (The Guardian)
+* [AI's Energy Demands Are Out of Control. Welcome to the Internet's Hyper-Consumption Era](https://www.wired.com/story/ai-energy-demands-water-impact-internet-hyper-consumption-era/) (WIRED)
+* [The Social Dilemma](https://thesocialdilemma.com)
+* [These are the most confusing questions Congress asked Zuckerberg](https://www.youtube.com/watch?v=stXgn2iZAAY) (CNN Business, YouTube)
+* [The 13 Strangest Moments From the Zuckerberg Hearing](https://www.theatlantic.com/technology/archive/2018/04 the-strangest-moments-from-the-zuckerberg-testimony/557672/) (The Atlantic)
+* [Zuckerberg explains the internet to Congress](https://www.youtube.com/watch?v=ncbb5B85sd0) (CNET, YouTube)
+* [Congressman Richard Hudson asks TikTok CEO Shou Chew if app uses ‘home WiFi’](https://www.youtube.com/watch?v=-8biKgSmS3U) (The Independent, YouTube)
+* [Supreme Court case on age limits for porn sites could affect 19 states](https://www.axios.com/2025/01/16/adult-website-age-verification-states) (Axios)
+* [Children's Online Privacy Protection Rule ("COPPA")](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) (FTC)
+* [The Age-Checked Internet Has Arrived](https://www.wired.com/story/the-age-checked-internet-has-arrived/) (WIRED)
+* [Countries That Have Introduced Social Media Age Restrictions](https://tech.co/news/countries-age-restrictions-social-media) (tech.co)
+* [Frances Haugen: ‘I never wanted to be a whistleblower. But lives were in danger’](https://www.theguardian.com/technology/2021/oct/24/frances-haugen-i-never-wanted-to-be-a-whistleblower-but-lives-were-in-danger) (The Guardian)
+* [Status of social media age verification laws in the United States](https://en.wikipedia.org/wiki/Social_media_age_verification_laws_in_the_United_States#/media/File:Social_media_age_verification_laws_as_of_may_3,_2025.png) (Wikipedia)
+* [A History of Net Neutrality in the United States](https://www.mozillafoundation.org/en/campaigns/net-neutrality-timeline/) (Mozilla)
+* [Net Neutrality](https://en.wikipedia.org/wiki/Net_neutrality) (Wikipedia)
+* [Why you should join the fight for net neutrality today](https://github.blog/news-insights/why-you-should-join-the-fight-for-net-neutrality-today/) (GitHub)
+* [Battle Pass](https://en.wikipedia.org/wiki/Battle_pass) (Wikipedia)
