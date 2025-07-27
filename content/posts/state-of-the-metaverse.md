@@ -64,16 +64,18 @@ you either via AI or the first two links?
 I think these finer technological details will become hidden,
 and browsers will begin to look more like all-in-one solutions that serve your most popular services to 
 you: social media, shopping, and work websites. New browsers with more customizability 
-like [Arc](https://arc.net) have already been popping up.
+like [Arc](https://arc.net) have already been popping up, and more browsers and operating systems
+are trying to integrate with AI.
 
 I find that use cases of technology are *usually* driven: i.e. someone frequently may just open
 Google Sheets in their web browser, and have their email open too. Another user may use their computer 
 solely for gaming; while another user may stream lots of content as well as enjoy online shopping.
 
-I think these "core use cases" will be emphasized and centralized, or grouped together; for instance,
+I think these "core" or "driven" use cases will be emphasized and centralized, or grouped together; for instance,
 the Google or Microsoft Office suites will become integral parts of the browser that are even easier to access. 
-We will chase productivity with new models of the internet - as people begin to live more digital lives as well
-as make more money.
+All politics and controversies aside, this seems to be Elon Musk's vision for his rumored all-in-one X platform.
+Altogether, we will chase productivity with new models of the internet as people begin to live more digital 
+lives as well as attempt to make money.
 
 The infrastructure of the internet will need to improve; more investment will be put toward clean
 energy (the world is already [beginning to worry](https://www.wired.com/story/ai-energy-demands-water-impact-internet-hyper-consumption-era/) about this) and supporting big data
@@ -84,26 +86,33 @@ cause resource demand.
 
 ### More Legality
 
-The Internet will **become both more safe and more dangerous**. The value of user privacy is
-becoming realized, and legislation is following, with the landmark introduction of [GDPR in Europe](https://gdpr-info.eu)
-and later introduction in the [United States](https://oag.ca.gov/privacy/ccpa).
+The Internet will **become both more safe and more dangerous**. It will become more safe in the sense 
+that the value of user privacy is finally becoming realized. Legislation is following, with 
+the landmark introduction of [GDPR in Europe](https://gdpr-info.eu) and later introduction in the [United States](https://oag.ca.gov/privacy/ccpa), particularly in California.
 
 Lawmakers will begin to better understand the internet, following questions over what they really
-understand in the Zuckerberg ([1](https://www.youtube.com/watch?v=stXgn2iZAAY), [2](https://www.theatlantic.com/technology/archive/2018/04/the-strangest-moments-from-the-zuckerberg-testimony/557672/), [3](https://www.youtube.com/watch?v=ncbb5B85sd0)) and [Chew trials](https://www.youtube.com/watch?v=-8biKgSmS3U).
+understand in the Zuckerberg ([1](https://www.youtube.com/watch?v=stXgn2iZAAY), [2](https://www.theatlantic.com/technology/archive/2018/04/the-strangest-moments-from-the-zuckerberg-testimony/557672/), [3](https://www.youtube.com/watch?v=ncbb5B85sd0)) and [Chew trials](https://www.youtube.com/watch?v=-8biKgSmS3U). Newer generations will begin to hold office and be able to better
+make legislation from their experiences.
 
 However, the internet remains a dangerous place, especially for youth, as battles remain over pornography websites, with [some states adopting age-verification laws](https://www.axios.com/2025/01/16/adult-website-age-verification-states). Additional legislation is
-being [enacted in the UK](https://www.wired.com/story/the-age-checked-internet-has-arrived/).
+being [enacted in the UK](https://www.wired.com/story/the-age-checked-internet-has-arrived/). Some adult content websites
+are circumventing this and blacking out their service in places with age verification anyways.
 
 Social media could be one of the most dangerous places of all for youth on the internet. Countries are beginning to
 [impose legislation on this too](https://tech.co/news/countries-age-restrictions-social-media) as well as [age verification
 laws](https://en.wikipedia.org/wiki/Social_media_age_verification_laws_in_the_United_States#/media/File:Social_media_age_verification_laws_as_of_may_3,_2025.png). [The Social Dilemma](https://thesocialdilemma.com) portrays
 a lot of these issues, and [Frances Haugen whistleblowing testimony](https://www.theguardian.com/technology/2021/oct/24/frances-haugen-i-never-wanted-to-be-a-whistleblower-but-lives-were-in-danger) urges action on social media companies
-that are mistreating children and their data.
+that are mistreating children and their data. There is so much literature coming out about the effects of social media on
+children, some positive though mostly negative. I would encourage your own reading on this topic.
 
-In the United States, [COPPA](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) protects some data for children under 13 years of age.
+In the United States, [COPPA](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) protects some data for children under 13 years of age, but otherwise data is not often protected, and more often sold.
 
-Additionally, [net neutrality](https://en.wikipedia.org/wiki/Net_neutrality) appears to be an ongoing legal battle
-for the internet, with most recent legislation on both sides [in 2017 and 2018](https://www.mozillafoundation.org/en/campaigns/net-neutrality-timeline/).
+Additionally, [net neutrality](https://en.wikipedia.org/wiki/Net_neutrality) appears to be a more stale but ongoing legal battle
+for the internet, with most recent legislation on both sides [in 2017 and 2018](https://www.mozillafoundation.org/en/campaigns/net-neutrality-timeline/). If the Metaverse is to truly be *for everyone, equally*, then the concept of free internet
+should persist.
+
+All of these legal issues and consumer safety issues make for a more complicated picture with the Metaverse,
+and its idea that we can begin to substitute major parts of our life with virtual equivalents.
 
 ### New Revenue Sources
 
@@ -111,23 +120,35 @@ for the internet, with most recent legislation on both sides [in 2017 and 2018](
 
 New revenue sources, or a return of the same, will also define the future of the Internet and Metaverse.
 
-Despite the jokes about it, the rise of the [battle pass](https://en.wikipedia.org/wiki/Battle_pass) following success in Fortnite, shows that a new innovation in "free" games can define new eras of revenue on the internet.
+Despite the jokes about it, the rise of the [battle pass](https://en.wikipedia.org/wiki/Battle_pass) in a variety of games
+following its success in Fortnite, shows that a new innovation in "free" games can define new eras of revenue on the internet.
+The battle pass is appealing because players don't miss out on the core game, but those who do buy the battle pass create
+the fear-of-missing-out for those who don't.
 
-The plethora of subscriptions, especially in streaming services, seem a surefire
-revenue source for companies. I would imagine that subscriptions can help recurring revenue (rather than one-time revenue)
-and help companies predict their revenue in the longer term.
+The plethora of subscriptions, especially in streaming services, seems to be *the* surefire
+revenue source for companies. I would imagine that subscriptions can help recurring revenue 
+(rather than one-time revenue) and help companies predict their revenue in the longer term.
 
 Use-based services are a revenue source I would like to see more of. Rather than paying subscriptions for months
 or years, you could pay per use of service, and cancel when you wish rather than jumping through hoops to
-cancel your service.
+cancel your service. A one-size-fits-all solution of the Internet doesn't work by nature. Hence, if we have
+unified platforms where we shop, work, stream, and so forth, we need to be able to opt in and out *willingly*.
 
-**Internet freedom and capitalism are ideas often in conflict.** The "free internet" is an idea of a place
-where everyone has access to learning, webpages, and more. Free games like Roblox with in-app or in-game
-purchases seem to fit this model, as long as you have access to the base game or the base webpage.
+**Internet freedom and capitalism are ideas that are often in conflict.** The "free internet" is an idea of a place
+where everyone has access to learning, webpages, and more. Yet, companies still must make money; this is just
+how our world works. 
 
 The one revenue source I haven't mentioned is ads, which are arguably the biggest revenue source
-because they require no action from anybody and rely on data being sold. This fits the *free internet*
-model, but as mentioned with legality and user privacy, has issues. This may become a tougher market over time.
+because they require no action from anybody (other than using the web itself) and relying on data being sold. 
+This fits the *free internet* model because content is still free, but as mentioned with legality and user privacy, 
+has issues. This may become a tougher market over time with more regulation, just like the aforementioned legal side 
+of adult content and net neutrality with internet service providers (ISPs).
+
+Free games like Roblox with in-app or in-game purchases seem to fit this model well and make money.
+As long as you have access to the base game or the base webpage for free, you can always buy
+more cosmetics or be shown more ads.
+
+For better or for worse, the free internet beckons regulation.
 
 ## What makes the Metaverse?
 
@@ -135,19 +156,21 @@ Words haven't come yet for the Metaverse, or at least coherent definitions.
 
 I think the Metaverse hasn't really materialized yet, but it will. I think 
 something *of the Metaverse* is something that advances technology in ways
-we haven't seen so far - like advanced VR technology or AR glasses.
+we haven't seen so far - like AI, advanced VR technology or AR glasses. Apple
+and Meta are both having a go at this in recent years.
 
-**The metaverse looks like escapism.** You can escape into our so-called *virtual worlds*,
+**Part of the metaverse is escapism.** You can escape into our so-called *virtual worlds*,
 meeting people from around the world with similar interests. You can learn and play
 and get lost in a world entirely different from your own. Some people need escapism 
-from whatever they're going through in life.
+from whatever they're going through in life. Or, often times, it will help you live
+your life outside of technology better.
 
 I'm cautiously optimistic about the future of the Metaverse; I don't think we need
-to put too much stock into every technology that comes along, like crypto and blockchain,
+to put too much stock into every technology that comes along, like AI, crypto and blockchain,
 but we can embrace the ideas of advancing Internet technology.
 
-However, to get to the internet of the future, much work needs to be done with the
-legality of it, revenue sources, user privacy, big data, and more.
+However, to get to the internet of the future, *The Metaverse*, so much work needs to be
+done with the legality of it all, revenue sources, user privacy, big data, and more.
 
 ### Related readings & sources:
 * [The Metaverse Has Already Arrived. Here's What That Actually Means](https://time.com/6116826/what-is-the-metaverse/) (TIME)
