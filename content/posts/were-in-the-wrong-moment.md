@@ -1,7 +1,7 @@
 +++
-title = 'We're in the Wrong Moment'
+title = "We’re in the Wrong Moment"
 date = 2025-10-24T13:41:57-06:00
-draft = true
+draft = false
 description = 'In which I talk about a time long past with the computer science and software engineering industry.'
 +++
 
