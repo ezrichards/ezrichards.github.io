@@ -37,8 +37,8 @@ I love writing code. It's like writing in general, or it's like a creative art. 
 revise it, pay attention to detail a thousand times. You keep on working at it and iterating
 on it until it's just right.
 
-I'm not sure if anyone else feels this way, but with the introduction of generative AI, **I don't find coding fun 
-anymore**. It's hard to motivate myself to code knowing a model can do it much quicker. The joy of coding
+I'm not sure if anyone else feels this way, but with the introduction of generative AI, I don't find coding fun 
+anymore. It's hard to motivate myself to code knowing a model can do it much quicker. The joy of coding
 for me was literally *the process of coding*.
 
 AI is eating the world. You can't hardly go to a website without seeing AI 15 times in the marketing,
@@ -56,7 +56,6 @@ I wonder if there will be a world where people must choose to opt in or out of A
 or if there will be the same banners per website like we get with cookies. Or, if it will continue
 steamrolling, or rather stagnate in the end.
 
-How will macroeconomics and government get involved? (Bernie has a [rather gloomy talk on this](https://www.youtube.com/watch?v=dthbi4lzO58).) I think that
-they will *need* to get involved, sooner or later.
+How will macroeconomics and government policy get involved? (Bernie has a [rather gloomy talk on this](https://www.youtube.com/watch?v=dthbi4lzO58).) I think that they will *need* to get involved, sooner or later.
 
 For all of us that grew up enjoying the coding process - we might just be in the wrong moment in time.
