@@ -6,13 +6,13 @@ description = 'In which I talk about a time past with the computer science and s
 +++
 
 **August 20th, 2011:** Marc Andreessen [proclaims](https://a16z.com/why-software-is-eating-the-world/) 'Software 
-is eating the world.' That was just over ten years ago. Today, software is still eating the world, but this
+is eating the world.' That was over ten years ago. Today, software is still eating the world, but this
 is no longer a broad proclamation nor surprise to anyone. In the years that followed, software would
 become integral to our daily lives, business, and attention.
 
 ## My Story
 
-As I learned more about computer science through my degrees, I was constantly
+As I learned and continue to learn more about computer science through my degrees, I was constantly
 reminded of times gone by. I had professors who had lived through the rise of computer science; 
 who invented network systems ground up, pioneered research in their fields and had advisors
 from the previous generation who invented modern systems that we know today. I am
@@ -55,6 +55,6 @@ Some of us just have to roll with the sunk costs on degrees that were made for a
 
 We're faced with harder questions now than in the time where things were just built; I wonder if there will be a world where people must choose to opt in or out of AI usage in their jobs; or if there will be the same banners per website like we get with cookies. Or, if it will continue steamrolling, or rather stagnate in the end.
 
-How will macroeconomics and government policy get involved? (Bernie has a [rather gloomy talk on this](https://www.youtube.com/watch?v=dthbi4lzO58).) I think that they will *need* to get involved, sooner or later.gi
+How will macroeconomics and government policy get involved? (Bernie has a [rather gloomy talk on this](https://www.youtube.com/watch?v=dthbi4lzO58).) I think that they will *need* to get involved, sooner or later.
 
 For all of us that grew up enjoying the coding process: we might just be in the wrong moment in time.
